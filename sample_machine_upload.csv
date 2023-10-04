@@ -1,0 +1,6 @@
+NAME,DESCRIPTION,OWNER,PRIORITY,HOSTNAMES,MAC_ADDRESSES,IP_ADDRESSES,CATEGORIES,CITY,STATE,COUNTRY_NAME,GEO_LAT,GEO_LONG,ISO_COUNTRY_CODE,TIME_ZONE
+Build Server 01,Engineering build server,VP of Engineering,3,"jenkins-01, build01","5c:e9:2f:95:15:db, 5C:E9:2F:9A:15:DB",192.168.50.75,"engineering, infrastructure",Houston,TX,United States of America,29.7604,-95.3698,US,UTC-05:00
+Build Server 02,Engineering build server,VP of Engineering,3,"jenkins-03, build02","5c:e9:2f:9a:15:db, 5C:E9:2F:9A:15:DB",192.168.50.15,"engineering, infrastructure",Houston,TX,United States of America,29.7604,-95.3698,US,UTC-05:00
+Finance Server 01,Finance financial server,CFO,2,money-db,"5c:e9:2f:95:15:00, 5C:E9:2F:95:15:00",192.168.51.7,"finance, infrastructure",Houston,TX,United States of America,29.7604,-95.3698,US,UTC-05:00
+Finance Server 02,Finance financial server,CFO,2,fin-credit,"5c:b4:2f:95:15:db, 5C:B4:2F:95:15:DB",192.168.51.8,"finance, infrastructure",London,,United Kingdom,51.5072,-0.1276,UK,UTC+00:00
+CEO Laptop,The CEO's laptop,CEO,1,"jburdell-mp, JBURDELL-MP.local","ab:e9:2f:95:15:db, AB:E9:2F:95:15:DB",192.168.15.107,"executive, laptop",Denver,CO,United States of America,39.7392,-104.9903,US,UTC-06:00
