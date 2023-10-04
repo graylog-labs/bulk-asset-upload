@@ -1,5 +1,5 @@
 # Disclaimer
-This script is provided with no guarantees, warantees, or herbal teas. It was written in a hurry by someone with no professional Python coding experience. It worked in my very limited testing, but it might require tweaks or updates to work for you.
+This script is provided with no guarantees, warranties, or herbal teas. It was written in a hurry by someone with no professional Python coding experience. It worked in my very limited testing, but it might require tweaks or updates to work for you.
 
 **Note**: The script currently only supports uploading machine assets. User asset upload may come in the future.
 
