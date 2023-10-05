@@ -1,0 +1,4 @@
+RECORD_NAME,FIRST_NAME,LAST_NAME,EMAIL_ADDRESSES,USER_NAMES,USER_IDS,PRIORITY,CATEGORIES
+gburdell,George,Burdell,"gburdell@company.com, ceo@company.com",gburdell,"1-444-1301, 12345",1,"executive, user"
+nstephenson,Neil,Stephenson,nstephenson@company.com,"nstephenson, neil",655241,3,"author, user"
+dnedry,Dennis,Nedry,"dnedry@company.com, dnedry@hacker.hack","dnedry, admin","1, 911",1,"user, admin"
