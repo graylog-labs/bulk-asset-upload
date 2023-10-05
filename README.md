@@ -2,7 +2,7 @@
 This script is provided with no guarantees, warranties, or herbal teas. It was written in a hurry by someone with no professional Python coding experience. It worked in my very limited testing, but it might require tweaks or updates to work for you.
 
 # Overview
-Graylog 5.2 includes a new Asset Database plugin which allows you to define machine and user assets and correlate those assets with your incoming log data. At release, it supports entering assets manually or importing from either LDAP or Active Directory. However, many people who don't have an LDAP or AD server do have way more machines than they care to enter manually. So I built this script to import machine assets in bulk from a .csv file.
+Graylog 5.2 includes a new Asset Database plugin which allows you to define machine and user assets and correlate those assets with your incoming log data. At release, it supports entering assets manually or importing from either LDAP or Active Directory. However, many people who don't have an LDAP or AD server do have way more machines than they care to enter manually. So I built this script to import machine and user assets in bulk from a .csv file.
 
 # Instructions
 The most important thing to mention is that the script expects your .csv file to be organized exactly like the provided `sample_machine_upload.csv` and `sample_user_upload.csv` files. If the data is not in the expected columns, the script will not work.
